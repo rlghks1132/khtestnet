@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xee9fd5a181dc971a513b8d5151186acef1589de7",
+  "SCAN_LINK": "https://baobab.scope.klaytn.com/account/0xee9Fd5a181dC971A513b8D5151186ACef1589DE7",
+  "NETWORK": {
+    "NAME": "Klaytn",
+    "SYMBOL": "klay",
+    "ID": 137
+  },
+  "NFT_NAME": "KHCOLLECTTEST",
+  "SYMBOL": "KCT",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/kh007",
+  "SHOW_BACKGROUND": true
+}
